@@ -1,0 +1,15 @@
+﻿  ofApp.cpp
+E:\openframeworks\of_v0.10.1_vs2017_release\apps\myApps\ofxPSBlendExample\src\ofApp.cpp(5,1): warning C4996: 'ofImage_<unsigned char>::loadImage': Use load instead
+E:\openframeworks\of_v0.10.1_vs2017_release\libs\openFrameworks\graphics\ofImage.h(227): message : see declaration of 'ofImage_<unsigned char>::loadImage'
+E:\openframeworks\of_v0.10.1_vs2017_release\apps\myApps\ofxPSBlendExample\src\ofApp.cpp(6,1): warning C4996: 'ofImage_<unsigned char>::loadImage': Use load instead
+E:\openframeworks\of_v0.10.1_vs2017_release\libs\openFrameworks\graphics\ofImage.h(227): message : see declaration of 'ofImage_<unsigned char>::loadImage'
+E:\openframeworks\of_v0.10.1_vs2017_release\apps\myApps\ofxPSBlendExample\src\ofApp.cpp(26,1): warning C4996: 'ofImage_<unsigned char>::getTextureReference': Use getTexture
+E:\openframeworks\of_v0.10.1_vs2017_release\libs\openFrameworks\graphics\ofImage.h(367): message : see declaration of 'ofImage_<unsigned char>::getTextureReference'
+  emptyExample.vcxproj -> E:\openframeworks\of_v0.10.1_vs2017_release\apps\myApps\ofxPSBlendExample\bin\ofxPSBlendExample_debug.exe
+  
+  	                   2	E:\openframeworks\of_v0.10.1_vs2017_release\libs\fmodex\lib\vs\Win32\
+  	  *EXTRA File 		 6018560	E:\openframeworks\of_v0.10.1_vs2017_release\apps\myApps\ofxPSBlendExample\bin\FreeImage.dll
+  
+  	                   1	E:\openframeworks\of_v0.10.1_vs2017_release\libs\FreeImage\lib\vs\Win32\
+  	  *EXTRA File 		 1266176	E:\openframeworks\of_v0.10.1_vs2017_release\apps\myApps\ofxPSBlendExample\bin\fmodex.dll
+  	  *EXTRA File 		 1312768	E:\openframeworks\of_v0.10.1_vs2017_release\apps\myApps\ofxPSBlendExample\bin\fmodexL.dll
